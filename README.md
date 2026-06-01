@@ -162,7 +162,7 @@ This project is in early design phase. See [CONTRIBUTING.md](CONTRIBUTING.md) if
 
 ## 👤 Author
 
-Built and researched by [@yourusername](https://github.com/yourusername)
+Built and researched by [@RabbaniHacker](https://github.com/RabbaniHacker)
 
 ---
 
